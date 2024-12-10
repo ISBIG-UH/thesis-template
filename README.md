@@ -1,2 +1,2 @@
-# thesis-template
-A template for a thesis manuscript
+# ms-thesis
+Master's Thesis
